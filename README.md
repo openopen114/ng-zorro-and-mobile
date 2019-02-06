@@ -1,2 +1,2 @@
-# ng-zorro-and-mobile
-ng zorro and ng zorro mobile in same project
+live demo [https://openopen114.github.io/ng-zorro-and-mobile/](https://openopen114.github.io/ng-zorro-and-mobile/)
+
